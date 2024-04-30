@@ -1,4 +1,4 @@
-streamlit==1.33.0
+streamlit
 python
 pillow==10.3.0
 tensorflow==2.16.1
