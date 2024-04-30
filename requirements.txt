@@ -3,6 +3,6 @@ pillow
 tensorflow
 matplotlib
 numpy
-joblib
+joblib==1.2.0
 io
 sys
