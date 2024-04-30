@@ -4,5 +4,4 @@ tensorflow
 matplotlib
 numpy
 joblib==1.2.0
-io
-sys
+
