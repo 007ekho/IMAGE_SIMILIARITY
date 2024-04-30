@@ -1,6 +1,4 @@
-python
 streamlit
-
 pillow
 tensorflow
 matplotlib
